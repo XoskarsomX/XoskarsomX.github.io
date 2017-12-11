@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #262525;
+    color: #ccc;
+}    
+         
+}
+#pic{
+    
+    height: 100px;
+    width: 200px;
+    
+}
+
+hr{
+    border: 1px solid black;
+    width: 80%;
+}
